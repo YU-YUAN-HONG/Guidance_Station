@@ -4,5 +4,4 @@
 
 ⚠️没有适配移动端CSS
 
-![image](https://github.com/user-attachments/assets/500a1ffa-bb91-4efe-84a3-530ee5cf1ed1)
-
+![image](https://github.com/user-attachments/assets/ed05872b-9a1b-42ef-920d-2621c797e484)
